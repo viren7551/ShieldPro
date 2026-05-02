@@ -1,0 +1,3 @@
+ShieldPro
+Secure Shield is a comprehensive web application built using React for the front-end, with NodeJS for the back-end and MongoDB as the database. It features three main modules: Admin, Agents, and Customers. Admins can manage policies, customers, and agents, including policy creation, issue, renewal, and cancellation. Agents handle policy selection, document verification, and claim processing. Customers can register, update profiles, select policies, view policy details, history, and submit claims online. This secure, user-friendly platform ensures efficient policy and claims management.
+
