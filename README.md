@@ -13,7 +13,7 @@ ShieldPro is a modern web application for managing life insurance policies, agen
 ## 🚀 Key Features
 - 🛡️ Role-based authentication (Admin, Agent, Customer)
 - 📊 Dynamic policy management with quote calculator
-- 💳 Secure payment processing with Stripe integration
+- 💳 Secure payment processing with Razor Pay integration
 - 📝 Multi-step policy application process
 - 👥 Agent-customer assignment system
 - 📈 Admin dashboard with comprehensive analytics
