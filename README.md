@@ -3,14 +3,14 @@ ShieldPro is a modern web application for managing life insurance policies, agen
 <br>
 <img width="1293" height="764" alt="Screenshot 2026-05-02 144243" src="https://github.com/user-attachments/assets/f8b1a726-6582-45d5-8194-3d5b6011ddeb" />
 
-## 🌐 Live Site URL
-[🔗 Live Link](https://shieldpro.netlify.app/)
+<h2>🌐 Live Site URL</h2>
+<a href="https://shieldpro.netlify.app/" target="_blank">🔗 Live Link</a>
 
-## 🌐 Server Site Repo
-[🔗 Server Link](https://github.com/viren7551/ShieldPro)
+<h2>🌐 Server Site Repo</h2>
+<a href="https://github.com/viren7551/ShieldPro" target="_blank">🔗 Server Link</a>
 
-## 🌐 Client Side Repo
-[🔗 Frontent Link](https://github.com/viren7551/ShieldPro-Frontend)
+<h2>🌐 Client Side Repo</h2>
+<a href="https://github.com/viren7551/ShieldPro-Frontend" target="_blank">🔗 Frontend Link</a>
 
 ## 🔑 Admin Credentials
 - **Email:** admin@gmail.com  
