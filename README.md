@@ -7,7 +7,7 @@ ShieldPro is a modern web application for managing life insurance policies, agen
 [🔗 Live Link](https://shieldpro.netlify.app/)
 
 ## 🌐 Server Site Repo
-[🔗 Frontent Link](https://github.com/viren7551/ShieldPro-Frontend)
+[🔗 Server Link](https://github.com/viren7551/ShieldPro)
 
 ## 🌐 Client Side Repo
 [🔗 Frontent Link](https://github.com/viren7551/ShieldPro-Frontend)
